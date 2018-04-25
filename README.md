@@ -1,2 +1,5 @@
 # hello-world
-tutorial
+
+My name is Dylan McClish. I love Takis and I used to live in New Jersey.
+
+
